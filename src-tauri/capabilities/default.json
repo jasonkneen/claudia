@@ -46,7 +46,6 @@
     "http:default",
     "http:allow-fetch",
     "process:default",
-    "notification:default",
     "clipboard-manager:default",
     "global-shortcut:default",
     "updater:default",
